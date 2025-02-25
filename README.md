@@ -1,3 +1,3 @@
 # myproject-01
-A login form using HTML, CSS & JS
+A login form using HTML, CSS & JS.
  
